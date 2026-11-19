@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="WestZone Salon image placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1A1A"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E4C883"/>
+      <stop offset="1" stop-color="#9B7536"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="450" cy="510" r="235" fill="none" stroke="url(#gold)" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="450" cy="510" r="265" fill="none" stroke="#C6A15B" stroke-opacity="0.12"/>
+  <text x="450" y="535" text-anchor="middle" fill="url(#gold)" font-family="Georgia, serif" font-size="150">WZ</text>
+  <text x="450" y="650" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="22" letter-spacing="8" opacity="0.7">WESTZONE SALON</text>
+</svg>
